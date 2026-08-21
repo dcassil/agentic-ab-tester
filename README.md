@@ -1,4 +1,4 @@
-# a-b-tester
+# agentic-ab-tester
 
 A Claude Code plugin for A/B testing agentic code development. Give it a
 numbered list of coding steps and a base codebase; it runs each step against

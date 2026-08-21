@@ -1,5 +1,5 @@
 {
-  "name": "a-b-tester",
+  "name": "agentic-ab-tester",
   "version": "0.1.0",
   "description": "A/B test agentic code development: run numbered steps against multiple copies of a base codebase via Codex CLI agents, collect dependency-cruiser + scc metrics, with hook-enforced gates.",
   "author": { "name": "Daniel Cassil" },
